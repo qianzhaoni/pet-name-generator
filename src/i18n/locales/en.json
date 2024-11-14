@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "Pet Name Generator",
+    "subtitle": "Find the Perfect Name for Your Furry Friend",
+    "startButton": "Start Generating Names",
+    "features": {
+      "title": "Why Choose Our Pet Name Generator?",
+      "personalized": "Personalized Names",
+      "personalizedDesc": "Based on your pet's characteristics",
+      "variety": "Wide Variety",
+      "varietyDesc": "Thousands of unique names to choose from",
+      "meaning": "Name Meanings",
+      "meaningDesc": "Understand the story behind each name"
+    }
+  },
+  "generator": {
+    "title": "Pet Name Generator",
+    "petType": "Pet Type",
+    "types": {
+      "dog": "Dog",
+      "cat": "Cat",
+      "bird": "Bird"
+    },
+    "gender": "Gender",
+    "genders": {
+      "male": "Male",
+      "female": "Female"
+    },
+    "personality": "Personality",
+    "personalities": {
+      "playful": "Playful",
+      "calm": "Calm",
+      "friendly": "Friendly"
+    },
+    "generateButton": "Generate Name",
+    "result": "Generated Name",
+    "saveButton": "Save Name",
+    "recentNames": "Recent Names"
+  }
+} 

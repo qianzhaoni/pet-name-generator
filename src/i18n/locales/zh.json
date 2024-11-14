@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "宠物取名生成器",
+    "subtitle": "为您的毛孩子找到完美的名字",
+    "startButton": "开始生成名字",
+    "features": {
+      "title": "为什么选择我们的宠物取名生成器？",
+      "personalized": "个性化名字",
+      "personalizedDesc": "基于您宠物的特征",
+      "variety": "丰富选择",
+      "varietyDesc": "数千个独特的名字供您选择",
+      "meaning": "名字含义",
+      "meaningDesc": "了解每个名字背后的故事"
+    }
+  },
+  "generator": {
+    "title": "宠物名字生成器",
+    "petType": "宠物类型",
+    "types": {
+      "dog": "狗狗",
+      "cat": "猫咪",
+      "bird": "鸟类"
+    },
+    "gender": "性别",
+    "genders": {
+      "male": "男孩",
+      "female": "女孩"
+    },
+    "personality": "性格",
+    "personalities": {
+      "playful": "活泼",
+      "calm": "安静",
+      "friendly": "友善"
+    },
+    "generateButton": "生成名字",
+    "result": "生成的名字",
+    "saveButton": "保存名字",
+    "recentNames": "最近生成的名字"
+  }
+} 
